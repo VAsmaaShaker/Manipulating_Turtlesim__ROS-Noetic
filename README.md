@@ -23,7 +23,7 @@ ROS (Robot Operating System) provides a powerful framework for robotics software
      rosrun turtlesim turtle_teleop_key
      ```
      This node allows you to control the turtle's movement using the keyboard arrow keys.
-![image](https://github.com/VAsmaaShaker/Manipulating_Turtlesim__ROS-Noetic/assets/174564364/4b77864d-9d78-43c8-b5c3-37b52dc138d7)
+![image](https://github.com/VAsmaaShaker/Manipulating_Turtlesim__ROS-Noetic/assets/174564364/b70a747d-9577-48b5-a253-0fb1b4955666)
 
 
 
